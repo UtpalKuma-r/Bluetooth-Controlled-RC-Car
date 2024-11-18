@@ -28,7 +28,8 @@ To build this Bluetooth-controlled car, you will need the following components:
 ## **Circuit Diagram**  
 The circuit diagram illustrates the connections between the HC-05 module, the motor driver, and the Arduino. The HC-05 communicates wirelessly with a smartphone and sends commands to the Arduino, which controls the motor driver to operate the motors.  
 
-![image](https://github.com/user-attachments/assets/6f29743c-fe04-4dcd-8cad-4e0880984192)  
+![image](https://github.com/user-attachments/assets/809907e1-396a-45c1-9fc0-ea4722a4f958)
+
 
 
 ### **ESP8266 to L298N** 
