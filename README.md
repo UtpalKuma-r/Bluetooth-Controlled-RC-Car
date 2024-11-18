@@ -12,7 +12,7 @@ To build this Bluetooth-controlled car, you will need the following components:
 1. **Hardware:**  
    - HC-05 Bluetooth module  
    - H-bridge motor driver (e.g., L298N or L293D)  
-   - Arduino (or any other compatible microcontroller)  
+   - ESP8266 (or any other compatible microcontroller)  
    - DC motors (2 or 4, depending on design)  
    - Wheels  
    - Chassis  
@@ -21,7 +21,7 @@ To build this Bluetooth-controlled car, you will need the following components:
 
 2. **Software:**  
    - Arduino IDE  
-   - Bluetooth terminal app (for smartphone control)  
+   - <a href="https://github.com/UtpalKuma-r/Bluetooth-Controlled-RC-Car/blob/main/Bluetooth%20RC%20Controller.apk">Bluetooth terminal app (for smartphone control)</a>  
 
 ---
 
